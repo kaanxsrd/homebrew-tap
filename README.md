@@ -3,7 +3,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="kaanxsrd/tap: 2 packages for macOS · Linux" src="assets/banner-light.svg" width="100%">
+  <img alt="kaanxsrd/tap: 3 packages for macOS · Linux" src="assets/banner-light.svg" width="100%">
 </picture>
 
 <br>
@@ -13,7 +13,7 @@
 <br>
 
 [![Homebrew](https://img.shields.io/badge/Homebrew-kaanxsrd%2Ftap-fbb040?style=flat-square&logo=homebrew&logoColor=white)](https://brew.sh)
-[![packages](https://img.shields.io/badge/packages-2-8b7cf6?style=flat-square)](#packages)
+[![packages](https://img.shields.io/badge/packages-3-8b7cf6?style=flat-square)](#packages)
 [![macOS · Linux](https://img.shields.io/badge/macOS_%C2%B7_Linux-x64_+_arm64-111111?style=flat-square)](#packages)
 [![updates](https://img.shields.io/badge/updates-automatic-0b9472?style=flat-square&logo=githubactions&logoColor=white)](#how-it-works)
 
@@ -32,6 +32,7 @@
 | Package | Version | Runs on | What it does | Install |
 | --- | --- | --- | --- | --- |
 | [**clonex**](https://github.com/kaanxsrd/CloneX) | `2.0.0` | macOS, Linux (x64, arm64) | Preview and copy the structure of a Discord server. | `brew install --cask kaanxsrd/tap/clonex` |
+| [**disweep**](https://github.com/kaanxsrd/Disweep) | `1.0.0` | macOS (x64, arm64) | Sweep your Discord messages. Review it first. | `brew install --cask kaanxsrd/tap/disweep` |
 | [**hookline**](https://github.com/kaanxsrd/hookline) | `1.0.1` | macOS, Linux (x64, arm64) | Catch every webhook. Replay anything. Pipe it to localhost. | `brew install --cask kaanxsrd/tap/hookline` |
 
 ## Install
